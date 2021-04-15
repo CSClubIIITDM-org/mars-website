@@ -1,0 +1,3 @@
+[submodule "themes/mars-hugo-theme"]
+	path = themes/mars-hugo-theme
+	url = https://github.com/WebOpsIIITDMK/mars-hugo-theme

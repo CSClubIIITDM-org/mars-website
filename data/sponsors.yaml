@@ -1,0 +1,23 @@
+section:
+  title: About our sponsors
+  description: We appreciate our valuable sponsors and are grateful to them for believing in us. We truly hope that we will continue to have a pleasant and long-lasting journey together.
+  button:
+    title: See all
+
+title: Our Sponsors
+description: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    Sagittis purus sit amet volutpat consequat mauris nunc congue nisi. Amet dictum sit amet justo. Ullamcorper a lacus vestibulum sed arcu non.
+
+companies:
+  - name: Pepsi
+    link: https://www.apple.com
+    icon: pepsi.svg
+
+  - name: Microsoft
+    link: https://www.microsoft.com
+    icon: microsoft.svg
+
+  - name: LG
+    link: https://www.amazon.com
+    icon: lg.svg

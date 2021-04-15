@@ -1,0 +1,22 @@
+section:
+  title: Gallery
+  description: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+images:
+  - caption: Photo1
+    path: 1.jpg
+  - caption: Photo2
+    path: 2.jpg
+  - caption: Photo3
+    path: 3.jpg
+  - caption: Photo4
+    path: 4.jpg
+  - caption: Photo5
+    path: 5.jpg
+  - caption: Photo6
+    path: 6.jpg
+  - caption: Photo7
+    path: 7.jpg
+  - caption: Photo8
+    path: 8.jpg

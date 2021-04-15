@@ -1,0 +1,29 @@
+title: Welcome to Mars Rover Society!
+description: |
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+  dolore magna aliqua. Sagittis purus sit amet volutpat consequat mauris nunc congue nisi.
+
+hero: hero.jpeg
+quotation:
+  quote: If you are sitting near to a person, don't use WhatsApp to chat. Stop pollution and save Earth.
+  by: A.D Vikas (Dolu)
+
+button:
+  title: Form closed
+  # link: https://forms.gle/dsQiJiU6vWe96Uf47
+
+sections:
+  - title: Responsibilities
+    description: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+      dolore magna aliqua. Sagittis purus sit amet volutpat consequat mauris nunc congue nisi. Amet dictum sit
+      amet justo. Gravida dictum fusce ut placerat orci nulla
+      pellentesque dignissim. Nibh sit amet commodo nulla facilisi. Donec ac odio tempor orci. Purus sit amet
+      luctus venenatis lectus magna. Morbi enim nunc faucibus a.
+
+  - title: Requirements
+    description: |
+      - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magn
+      - Sagittis purus sit amet volutpat consequat mauris nunc congue nisi. Amet dictum sit amet justo.
+      - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magn
+      - Sagittis purus sit amet volutpat consequat mauris nunc congue nisi. Amet dictum sit amet justo.

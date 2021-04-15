@@ -1,0 +1,37 @@
+section:
+  title: Roadmap
+  description: |
+    Some points of decription of roadmap. Supply a simple note to be inserted here.
+
+milestones:
+  - title: ERC Proposal
+    date: 15th March 2021
+    description: The first step towards participating in the remote and on-site editions of ERC 2021.
+
+  - title: ERC PDR
+    date: 15th April 2021
+    description: The submission of the Preliminary Design Report, prepared after the design and analysis phase, is a major milestone for ERC.
+
+  - title: IRDC Registration
+    date: May 2021
+    description: A purely design-based, one-of-its-kind competition that removes constraints on available physical resources.
+
+  - title: IRDC Design Submission
+    date: July 2021
+    description: An Engineering Design Report, containing both visualization and explanation of the design, to be submitted.
+
+  - title: ERC Final report
+    date: 10th July 2021
+    description: Another major milestone for ERC, marked by the submission of a Final Report that contains detailed information on the designs and a summary of the manufacturing and testing phase.
+
+  - title: IRC Registration
+    date: August 2021
+    description: Registration for the only robotics and space exploration-based challenge in Asia-Pacific.
+
+  - title: ERC Competition
+    date: 13th September 2021
+    description: Conduction of both the onsite and remote editions of the ERC 2021 at Kielce, Poland.
+
+  - title: URC Registration
+    date: October 2021
+    description: Registration for the 2022 edition of the world’s premier robotics competition for college students.

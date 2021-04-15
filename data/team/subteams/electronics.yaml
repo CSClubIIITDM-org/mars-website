@@ -1,0 +1,43 @@
+members:
+  - name: B Vidhya
+    avatar: vidhya.png
+    social:
+      email: bvidhya1511@gmail.com
+      linkedin: vidhya-b-5692b8202
+    subteam: Communications
+
+  - name: Tarunraghav Srikanth
+    avatar: tarun.png
+    social:
+      email: edm19b044@iiitdm.ac.in
+      linkedin: tarunraghav-s-5b34ab197
+    subteam: Control Systems
+
+  - name: A. Dolendra Vikas
+    avatar: vikas.png
+    social:
+      email: 8112001vikas@gmail.com
+      linkedin: dolendra-vikas-175451190
+    subteam: Communications
+
+  - name: Varun Kumar
+    avatar: varun.png
+    social:
+      email: varunkumar.siva@gmail.com
+      linkedin: varun-kumar-siva-8a688b1b1
+    subteam: Electronics
+
+  - name: Pradeep Kumar
+    avatar: pradeep.png
+    leader: true
+    social:
+      email: velidipradeep@gmail.com
+      linkedin: velidi-pradeep-b009b3191
+    subteam: Control Systems
+
+  - name: Ashwathy Manoj Kumar
+    avatar: ashwathy.png
+    social:
+      email: esd19i011@iiitdm.ac.in
+      linkedin: aswathy-manoj-kumar
+    subteam: Communications

@@ -1,0 +1,19 @@
+members:
+  - name: Jesson Adam
+    avatar: jesson.png
+    social:
+      email: jessonadam16@gmail.com
+    subteam: Science Cache
+
+  - name: Adhithi Ravi
+    avatar: adhithi.png
+    leader: true
+    social:
+      email: adhithirs7@gmail.com
+    subteam: Science Cache
+
+  - name: Merin Lee Egi
+    avatar: merin.png
+    social:
+      email: merinlee10@gmail.com
+    subteam: Science Cache

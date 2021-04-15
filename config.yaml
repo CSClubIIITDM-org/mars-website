@@ -1,0 +1,76 @@
+title: MaRS
+baseurl: https://marsroversociety.netlify.app
+theme: mars-hugo-theme
+
+menus:
+  sections:
+    - name: Team
+      weight: 1
+    - name: Project
+      weight: 2
+    - name: Sponsors
+      weight: 3
+    - name: Brochure
+      weight: 4
+    - name: Roadmap
+      weight: 5
+    - name: Gallery
+      weight: 6
+    - name: Join Us
+      params:
+        hide: true
+      weight: 7
+
+params:
+  heroHeader:
+    subheader: Welcome to
+    title: Mars Rover Society
+    motto: To create an eco-system in the midst of a pandemic where people support each other to grow and build technologies that would develop their lives for the better.
+
+  logo: logo.png
+  description: raK garunA
+
+  # Use this to explicity specify a favicon. Should be PNG.
+  # favicon: favicon.png
+
+  socialIcons:
+    email: fas fa-envelope
+    linkedin: fab fa-linkedin
+    college: fas fa-university
+    website: fas fa-globe
+    github: fab fa-github
+    behance: fab fa-behance
+
+  socialLinks:
+    email: mailto:%s
+    linkedin: https://linkedin.com/in/%s
+    instagram: https://instagram.com/%s
+    website: https://%s
+    github: https://github.com/%s
+    behance: https://behance.net/%s
+
+social:
+  email: mailto:mars@iiitdm.ac.in
+  instagram: https://instagram.com/mars_iiitdm
+  linkedin: https://www.linkedin.com/company/mars-rover-society
+  youtube: https://www.youtube.com/channel/UCj1VqrHhDte54oLgPG4xpuQ
+
+
+# Dev stuff
+disableKinds:
+  - page
+  - section
+  - taxonomy
+  - term
+
+outputs:
+  home:
+    - HTML
+    - Team
+    - Project
+    - Sponsors
+    - Join Us
+
+module:
+  imports:
+    - path: github.com/WebOpsIIITDMK/mars-hugo-theme

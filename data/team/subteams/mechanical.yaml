@@ -1,0 +1,35 @@
+members:
+  - name: Prahar Jamnik
+    avatar: prahar.png
+    social:
+      email: prahargj12@gmail.com
+      linkedin: prahar-jamnik-70ba371a8
+    subteam: Mechanical
+
+  - name: Shivansh Dhaka
+    avatar: shivansh.png
+    social:
+      linkedin: Shivansh Dhaka
+    subteam: Mechanical
+
+  - name: Anirudh GSK
+    avatar: anirudh.png
+    leader: true
+    role: Co-leader
+    social:
+      email: gskanirudhofficial2001@gmail.com
+      linkedin: Anirudh Govindarajan
+    subteam: Mechanical
+
+  - name: Ayush Shukla
+    avatar: ayush.png
+    social:
+      email: ayush160899@gmail.com
+    subteam: Mechanical
+
+  - name: Sangeeta Das
+    avatar: sangeeta.png
+    social:
+      email: sangeetadas703@gmail.com
+      linkedin: Sangeeta Das
+    subteam: Mechanical

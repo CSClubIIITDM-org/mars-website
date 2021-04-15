@@ -1,0 +1,30 @@
+members:
+  - name: Sounderya V V
+    avatar: sounderya.png
+    social:
+      email: vvsounderya22@gmail.com
+      linkedin: sounderya-venugopal-90210b1a1
+    subteam: ROS Developers
+
+  - name: Radhika Mittal
+    avatar: radhika.png
+    social:
+      email: radhikamittal2000@gmail.com
+      linkedin: radhika-mittal-6528901a0
+    subteam: ROS Developers
+
+  - name: Yash Kumar Sahu
+    avatar: yash.png
+    social:
+      email: ysahu262@outlook.com
+      linkedin: yash-kumar-sahu-74a03a1b1
+    subteam: ROS Developers
+
+  - name: Vishal Kumar
+    avatar: vishal.png
+    leader: true
+    role: Team Leader
+    social:
+      email: vishalmimani008@gmail.com
+      linkedin: vi-ku
+    subteam: ROS Developers
