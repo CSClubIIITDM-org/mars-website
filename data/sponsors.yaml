@@ -10,9 +10,9 @@ description: |
     Sagittis purus sit amet volutpat consequat mauris nunc congue nisi. Amet dictum sit amet justo. Ullamcorper a lacus vestibulum sed arcu non.
 
 companies:
-  - name: Pepsi
-    link: https://www.apple.com
-    icon: pepsi.svg
+  - name: IIITDM Kancheepuram
+    link: https://www.iiitdm.ac.in
+    icon: iiitdm.svg
 
   - name: Microsoft
     link: https://www.microsoft.com
