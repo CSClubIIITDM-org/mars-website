@@ -1,16 +1,16 @@
 {
  "comments": {
   "dependencies": {
-   "@popperjs/core": "github.com/UtkarshVerma/hugo-mod-bootstrap-v5"
+   "@popperjs/core": "project"
   },
   "devDependencies": {
-   "@popperjs/core": "github.com/WebOpsIIITDMK/mars-hugo-theme",
-   "aos": "github.com/WebOpsIIITDMK/mars-hugo-theme",
-   "autoprefixer": "github.com/WebOpsIIITDMK/mars-hugo-theme",
-   "postcss": "github.com/WebOpsIIITDMK/mars-hugo-theme",
-   "postcss-cli": "github.com/WebOpsIIITDMK/mars-hugo-theme",
-   "postcss-uncss": "github.com/WebOpsIIITDMK/mars-hugo-theme",
-   "uncss": "github.com/WebOpsIIITDMK/mars-hugo-theme"
+   "@popperjs/core": "project",
+   "aos": "project",
+   "autoprefixer": "project",
+   "postcss": "project",
+   "postcss-cli": "project",
+   "postcss-uncss": "project",
+   "uncss": "project"
   }
  },
  "dependencies": {

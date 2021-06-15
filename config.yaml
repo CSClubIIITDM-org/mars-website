@@ -1,6 +1,5 @@
 title: MaRS
 baseurl: https://marsroversociety.netlify.app
-theme: mars-hugo-theme
 
 menus:
   sections:
