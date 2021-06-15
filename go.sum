@@ -6,6 +6,8 @@ github.com/UtkarshVerma/hugo-modules/svg-icon-system v0.0.0-20210610035240-87a56
 github.com/UtkarshVerma/hugo-modules/svg-icon-system v0.0.0-20210610035240-87a56b0df5a6/go.mod h1:sLt2pcoL3NavXRT1sOU8KKke9UcQsO3SYmobax6Fc+8=
 github.com/WebOpsIIITDMK/mars-hugo-theme v0.0.0-20210615143445-2c944b2afe3a h1:0gXIgq9X5s1KS6BNdvHK1p6w/VZlINTpZSKTxzYKUA8=
 github.com/WebOpsIIITDMK/mars-hugo-theme v0.0.0-20210615143445-2c944b2afe3a/go.mod h1:CsUv/qaeVgp16KiRfRPgdO0zstML7KvTYIGHZ6rIwog=
+github.com/WebOpsIIITDMK/mars-hugo-theme v0.0.0-20210615174437-59d398c67985 h1:EFt7Zu8E+PjOwRDzv2RZz9aFPd0ug2RFBLqixQgrUeQ=
+github.com/WebOpsIIITDMK/mars-hugo-theme v0.0.0-20210615174437-59d398c67985/go.mod h1:CsUv/qaeVgp16KiRfRPgdO0zstML7KvTYIGHZ6rIwog=
 github.com/michalsnik/aos v2.3.4+incompatible h1:B9UWaV7R8318HMlInvtYvrcDOFN59B1GTJrNMuVIQvM=
 github.com/michalsnik/aos v2.3.4+incompatible/go.mod h1:3WnKv30MNNXa8Wu94W56YnTU6yZDq/5269RAD73C+kI=
 github.com/twbs/bootstrap v5.0.1+incompatible h1:XW1ZMrcg2ZTTQFKtE/i5HUagYsAao/hqfN30dJeBpVk=
