@@ -1,7 +1,7 @@
 title: Welcome to Mars Rover Society!
 description: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-  dolore magna aliqua. Sagittis purus sit amet volutpat consequat mauris nunc congue nisi.
+  If you are a space enthusiastic and want to explore the Red Planet, then join us, we can assure you that
+  together we gonna have a amazing ride, So excited to see you at MaRS.
 
 hero: hero.jpeg
 quotation:
@@ -9,8 +9,8 @@ quotation:
   by: A.D Vikas (Dolu)
 
 button:
-  title: Form closed
-  # link: https://forms.gle/dsQiJiU6vWe96Uf47
+  title: Form Open
+  link: https://forms.gle/UCiAbhD7NwsHv42D9
 
 sections:
   - title: Responsibilities
