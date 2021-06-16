@@ -16,8 +16,5 @@ companies:
 
   - name: DIC 
     link: http://diciiit.herokuapp.com/index.html
-    icon: microsoft.svg
+    icon: DIC.svg
 
-  - name: LG
-    link: https://www.amazon.com
-    icon: lg.svg
