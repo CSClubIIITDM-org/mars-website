@@ -11,7 +11,7 @@ images:
   - caption: Photo3
     path: 3.jpeg
   - caption: Photo4
-    path: 4.jpeg
+    path: 11.jpeg
   - caption: Photo5
     path: 5.jpeg
   - caption: Photo6
@@ -24,3 +24,6 @@ images:
     path: 9.jpeg
   - caption: Photo10
     path: 10.jpeg
+  - caption: Photo11
+    path: 4.jpeg
+    
