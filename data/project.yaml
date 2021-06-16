@@ -29,6 +29,7 @@ parts:
 
   - title: Robotic Arm Version 2
     image: payload.png
+    video: https://www.youtube.com/embed/UsM94GlrtN0
     description: |
       The Falcon Heavy first stage is equipped with 12 landing legs (4 on each booster) made of state-of-the-art carbon fiber with aluminum honeycomb.
       All 12 landing legs are stowed along the side of each booster until just prior to landing.
