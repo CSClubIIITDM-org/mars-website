@@ -14,8 +14,8 @@ companies:
     link: https://www.iiitdm.ac.in
     icon: iiitdm.svg
 
-  - name: Microsoft
-    link: https://www.microsoft.com
+  - name: DIC 
+    link: http://diciiit.herokuapp.com/index.html
     icon: microsoft.svg
 
   - name: LG
