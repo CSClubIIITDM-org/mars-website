@@ -4,19 +4,23 @@ section:
     A glimpse of the moments of work culture at mars rover society.
 
 images:
-  - caption: Photo1
-    path: 1.jpg
-  - caption: Photo2
-    path: 2.jpg
+  - caption: MaRS first gathering
+    path: 1.jpeg
+  - caption: Photo with Faculty Advisor
+    path: 2.jpeg
   - caption: Photo3
-    path: 3.jpg
+    path: 3.jpeg
   - caption: Photo4
-    path: 4.jpg
+    path: 4.jpeg
   - caption: Photo5
-    path: 5.jpg
+    path: 5.jpeg
   - caption: Photo6
-    path: 6.jpg
+    path: 6.jpeg
   - caption: Photo7
-    path: 7.jpg
+    path: 7.jpeg
   - caption: Photo8
-    path: 8.jpg
+    path: 8.jpeg
+  - caption: Photo9
+    path: 9.jpeg
+  - caption: Photo10
+    path: 10.jpeg
