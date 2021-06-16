@@ -1,11 +1,7 @@
 section:
-  title: Need more information about our project?
+  title: Need more information on sponsoring our project?
   description: |
-    Our six-wheeled rover have a custom rocker-bogie suspension system with a low
-    center of gravity designed for better stability and manoeuvrability. We have develop a robotic
-    manipulator with 5 degrees of freedom with a task-specific end effector for better operational
-    accuracy and repeatability. Our rover is having a robust autonomous system capable of path
-    planning and traversal, specially trained for highly uncertain and challenging terrains.
+   It is the constant suppport of our sponsors that keeps us focused and inspires us to work towards our goal. To constantly improve and continue our exploration we need sponsors who can support us in our journey
 
   cover: sectionCover.jpg
   button:
