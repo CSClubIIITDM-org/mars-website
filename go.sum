@@ -14,6 +14,8 @@ github.com/WebOpsIIITDMK/mars-hugo-theme v0.0.0-20210618205415-c9f40153001a h1:G
 github.com/WebOpsIIITDMK/mars-hugo-theme v0.0.0-20210618205415-c9f40153001a/go.mod h1:CsUv/qaeVgp16KiRfRPgdO0zstML7KvTYIGHZ6rIwog=
 github.com/WebOpsIIITDMK/mars-hugo-theme v0.0.0-20210619091752-d99003eaf0cc h1:Ncc5KNgiw6TNWisGXZ4xuNu1fwuFI64oLhhMJ41aFFk=
 github.com/WebOpsIIITDMK/mars-hugo-theme v0.0.0-20210619091752-d99003eaf0cc/go.mod h1:CsUv/qaeVgp16KiRfRPgdO0zstML7KvTYIGHZ6rIwog=
+github.com/WebOpsIIITDMK/mars-hugo-theme v0.0.0-20210619101936-88ecec8410d9 h1:0erc2xM+f36cw2XnmHlF1fEQ18ge4VUafS2XeP2o8gQ=
+github.com/WebOpsIIITDMK/mars-hugo-theme v0.0.0-20210619101936-88ecec8410d9/go.mod h1:CsUv/qaeVgp16KiRfRPgdO0zstML7KvTYIGHZ6rIwog=
 github.com/michalsnik/aos v2.3.4+incompatible h1:B9UWaV7R8318HMlInvtYvrcDOFN59B1GTJrNMuVIQvM=
 github.com/michalsnik/aos v2.3.4+incompatible/go.mod h1:3WnKv30MNNXa8Wu94W56YnTU6yZDq/5269RAD73C+kI=
 github.com/twbs/bootstrap v5.0.1+incompatible h1:XW1ZMrcg2ZTTQFKtE/i5HUagYsAao/hqfN30dJeBpVk=
