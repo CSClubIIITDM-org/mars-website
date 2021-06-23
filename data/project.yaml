@@ -11,50 +11,48 @@ image: rover.png
 video: https://www.youtube.com/embed/UsM94GlrtN0
 description: Our six-wheeled rover have a custom rocker-bogie suspension system with a low center of gravity designed for better stability and manoeuvrability. We have develop a robotic manipulator with 5 degrees of freedom with a task-specific end effector for better operational accuracy and repeatability. Our rover is having a robust autonomous system capable of path planning and traversal, specially trained for highly uncertain and challenging terrains.
 attributes:
-  height: 70 m / 229.6 ft
-  diameter: 12.2 m / 39.9 ft
-  mass: 1,420,788 kg / 3,125,735 lb
-  payload to leo: 63,800 kg / 140,660 lb
-  payload to gto: 26,700 kg / 58,860 lb
-  payload to mars: 16,800 kg / 37,040 lb
+  height: XX m / XX ft
+  diameter: XX m / XX ft
+  mass: XX kg / XX lb
+  payload to leo: XX kg / XX lb
+  payload to gto: XX kg / XX lb
+  payload to mars: XX kg / XX lb
 
 parts:
   - title: Robotic Arm Version 1
-    image: engine.png
+    image: rover.png
     description: Falcon Heavy’s first stage incorporates 27 Merlin engines across three aluminum-lithium alloy rocket cores containing liquid oxygen and rocket-grade kerosene (RP-1) propellant. Falcon Heavy generates more than 5 million pounds of thrust at liftoff.
     attributes:
-      number of engines: 27
-      thrust at sea level: 22,819 kN / 5,130,000 lbf
-      thrust in vacuum: 24,681 kN / 5,548,500 lbf
+      number of engines: 1
+      thrust at sea level: XX kN / XX lbf
+      thrust in vacuum: XX kN / XX lbf
 
   - title: Robotic Arm Version 2
-    image: payload.png
+    image: rover.png
     video: https://www.youtube.com/embed/UsM94GlrtN0
     description: |
-      The Falcon Heavy first stage is equipped with 12 landing legs (4 on each booster) made of state-of-the-art carbon fiber with aluminum honeycomb.
-      All 12 landing legs are stowed along the side of each booster until just prior to landing.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nib.
 
-  - title: Interstage
+  - title: Robotic Arm
     image: rover.png
     description: |
-      The interstage is a composite structure that connects the center core on the first stage and second stages and holds the release and separation system.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nib.
       ## GRID FINS
-      Falcon Heavy is equipped with 12 hypersonic grid fins, four on each booster, positioned at the base of the interstage or nosecone which orients by moving the center of pressure during reentry.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nib.
 
-  - title: Second Stage
-    image: engine.png
-    description: Falcon Heavy draws upon Falcon 9’s proven design, which minimizes stage separation events and maximizes reliability. The second-stage Merlin Vacuum Engine delivers the rocket’s payload to orbit after the main engines cut off and the first-stage cores separate.
+  - title: Robotic Arm
+    image: rover.png
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nib.
     attributes:
       number of engines: 1
-      burn time: 397 sec
-      thrust: 981 kN / 220,500 lbf
+      burn time: XX sec
+      thrust: XX kN / XX lbf
 
-  - title: Payload
-    image: payload.png
-    description: Made of a carbon composite material, the fairing protects satellites on their way to orbit. SpaceX is recovering fairing for reuse on future missions.
-    link:
+  - title: Robotic Arm
+    image: rover.png
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nib.
       title: Learn more about SpaceX reusability
       target: https://www.spacex.com/mission/
     attributes:
-      height: 13.1 m / 43 ft
-      diameter: 5.2 m / 17.1 ft
+      height: XX m / XX ft
+      diameter: XX m / XX ft
