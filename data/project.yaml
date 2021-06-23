@@ -19,15 +19,15 @@ attributes:
   payload to mars: XX kg / XX lb
 
 parts:
-  - title: Robotic Arm Version 1
+  - title: Robotic Arm 
     image: rover.png
-    description: Falcon Heavy’s first stage incorporates 27 Merlin engines across three aluminum-lithium alloy rocket cores containing liquid oxygen and rocket-grade kerosene (RP-1) propellant. Falcon Heavy generates more than 5 million pounds of thrust at liftoff.
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nib.
     attributes:
       number of engines: 1
       thrust at sea level: XX kN / XX lbf
       thrust in vacuum: XX kN / XX lbf
 
-  - title: Robotic Arm Version 2
+  - title: Robotic Arm 
     image: rover.png
     video: https://www.youtube.com/embed/UsM94GlrtN0
     description: |
