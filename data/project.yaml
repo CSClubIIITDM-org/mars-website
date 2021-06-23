@@ -51,6 +51,7 @@ parts:
   - title: Robotic Arm
     image: rover.png
     description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nib.
+    link:
       title: Learn more about SpaceX reusability
       target: https://www.spacex.com/mission/
     attributes:
