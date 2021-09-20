@@ -18,4 +18,9 @@ companies:
   - name: DIC 
     link: http://diciiit.herokuapp.com/index.html
     icon: DIC.svg
+    
+  - name: TLC 
+    link: http://tlc.iiitdm.ac.in/
+    icon: TLC.svg
+    
 
