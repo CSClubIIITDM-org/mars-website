@@ -8,7 +8,14 @@ title: Meet the Team
 description: Meet the 18 minds behind these 6 wheels who work day and night for exploring the red planet.
 
 leader: Vishal Kumar
-facultyAdvisor: Dr. Gurunathan C
+facultyAdvisor:
+  name: Dr. Gurunathan C
+  role: Faculty Advisor
+  avatar: shubhankar.png
+  social:
+    email: shubhankar@iiitdm.ac.in
+    college: https://www.iiitdm.ac.in/People/displayProfileFaculty.php?shubhankar@iiitdm.ac.in
+
 facultyAdvisor:
   name: Dr. Shubhankar Chakraborty
   role: Faculty Advisor
