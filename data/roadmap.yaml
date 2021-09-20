@@ -4,34 +4,38 @@ section:
     Some points of decription of roadmap. Supply a simple note to be inserted here.
 
 milestones:
-  - title: ERC Proposal
-    date: 15th March 2021
-    description: The first step towards participating in the remote and on-site editions of ERC 2021.
+  - title: IRC Registration
+    date: 19th September 2021
+    description: The first step towards participating in the Internation Rover Challenge-2022.
 
-  - title: ERC PDR
-    date: 15th May 2021
-    description: The submission of the Preliminary Design Report, prepared after the design and analysis phase, is a major milestone for ERC.
+  - title: IRC SDDR Report and Video
+    date: 1st November 2022
+    description: The submission of the System Design and Development Report and video, prepared after the design and analysis phase, is a major milestone for IRC.
 
-  - title: IRDC Registration
-    date: May 2021
-    description: A purely design-based, one-of-its-kind competition that removes constraints on available physical resources.
+  - title: URC-2022 Registration
+    date: November 2021
+    description: A competition similar to that of IRC, held every year in USA.
 
-  - title: IRDC Design Submission
-    date: July 2021
+  - title: URC PDR Submission
+    date: January 2022
     description: An Engineering Design Report, containing both visualization and explanation of the design, to be submitted.
 
-  - title: ERC Final report
-    date: 20th July 2021
-    description: Another major milestone for ERC, marked by the submission of a Final Report that contains detailed information on the designs and a summary of the manufacturing and testing phase.
+  - title: IRC Onsite Competition
+    date: February 2022
+    description: Final Onsite competition to be held at VIT, Chennai.
 
-  - title: IRC Registration
-    date: August 2021
-    description: Registration for the only robotics and space exploration-based challenge in Asia-Pacific.
+  - title: URC SAR Milestone
+    date: February 2022
+    description: Another major milestone for URC, marked by the submission of a Video showcasing the salient feature of the designed system.
 
-  - title: ERC Competition
-    date: 13th September 2021
-    description: Conduction of both the onsite and remote editions of the ERC 2021 at Kielce, Poland.
+  - title: ERC Remote and Online Registration
+    date: February 2022
+    description: Registration for the only robotics and space exploration-based challeng in European Region.
 
-  - title: URC Registration
-    date: October 2021
-    description: Registration for the 2022 edition of the world’s premier robotics competition for college students.
+  - title: ERC PDR Submisstion and Remote Simulation
+    date: April 2022
+    description: Submission of PDR for Remote and Onsite Competion. Also for Remote competition a simulation video has to be also submitted.
+
+  - title: URC Competition
+    date: May 2022
+    description: Final Onsite competition to be held at USA.
