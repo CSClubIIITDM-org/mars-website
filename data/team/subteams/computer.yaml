@@ -15,6 +15,7 @@ members:
 
   - name: Yash Kumar Sahu
     avatar: yash.png
+    role: Team Leader
     social:
       email: ysahu262@outlook.com
       linkedin: yash-kumar-sahu-74a03a1b1
@@ -23,7 +24,6 @@ members:
   - name: Vishal Kumar
     avatar: vishal.png
     leader: true
-    role: Team Leader
     social:
       email: vishalmimani008@gmail.com
       linkedin: vi-ku
