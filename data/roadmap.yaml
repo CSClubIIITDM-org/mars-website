@@ -4,14 +4,6 @@ section:
     Your goals are the road maps that guide you and show you what is possible for your life.
 
 milestones:
-  - title: IRC Registration
-    date: 19th September 2021
-    description: The first step towards participating in the Internation Rover Challenge-2022.
-
-  - title: IRC SDDR Report and Video
-    date: 1st November 2022
-    description: The submission of the System Design and Development Report and video, prepared after the design and analysis phase, is a major milestone for IRC.
-
   - title: URC-2022 Registration
     date: November 2021
     description: A competition similar to that of IRC, held every year in USA.
@@ -39,3 +31,12 @@ milestones:
   - title: URC Competition
     date: May 2022
     description: Final Onsite competition to be held at USA.
+    
+  - title: ERC PDR and Simulation Result
+    date: 15 May 2022
+    description: ERC Qualification Results Declared.
+
+  - title: ERC Competition
+    date: 9-11 September 2022
+    description: Final Onsite competition to be held at Poland.
+
