@@ -9,20 +9,16 @@ milestones:
     description: A competition similar to that of IRC, held every year in USA.
 
   - title: URC PDR Submission
-    date: January 2022
+    date: 03 December 2021
     description: An Engineering Design Report, containing both visualization and explanation of the design, to be submitted.
 
-  - title: IRC Onsite Competition
-    date: February 2022
-    description: Final Onsite competition to be held at VIT, Chennai.
-
-  - title: URC SAR Milestone
-    date: February 2022
-    description: Another major milestone for URC, marked by the submission of a Video showcasing the salient feature of the designed system.
-
   - title: ERC Remote and Online Registration
-    date: February 2022
+    date: 28 February 2022
     description: Registration for the only robotics and space exploration-based challeng in European Region.
+    
+  - title: URC SAR Milestone
+    date: 03 March 2022
+    description: Another major milestone for URC, marked by the submission of a Video showcasing the salient feature of the designed system.
 
   - title: ERC PDR Submisstion and Remote Simulation
     date: April 2022
