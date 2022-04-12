@@ -13,3 +13,10 @@ members:
       email: ysahu262@outlook.com
       linkedin: yash-kumar-sahu-74a03a1b1
     subteam: ROS Developers
+    
+  - name: Vishal Kumar
+    avatar: Vishal.png
+    social:
+      email: mpd18i027@iiitdm.ac.in
+      linkedin: vi-ku
+    subteam: ROS Developers
