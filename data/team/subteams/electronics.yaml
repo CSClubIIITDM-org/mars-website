@@ -9,6 +9,7 @@ members:
 
   - name: Devivaraprasad
     avatar: Devi.png
+    leader: true
     social:
       email: rathikindidevivaraprasad@gmail.com
       linkedin: devivaraprasad-rathikindi-b35b6a20b
