@@ -9,6 +9,7 @@ members:
     
   - name: Dumpala Rajesh
     avatar: Rajesh.png
+    leader: true
     social:
       email: rajeshdumpala001@gmail.com
       linkedin: rajesh-d-9411431a7
