@@ -13,13 +13,6 @@ members:
       linkedin: tarunraghav-s-5b34ab197
     subteam: Control Systems
 
-  - name: A. Dolendra Vikas
-    avatar: vikas.png
-    social:
-      email: 8112001vikas@gmail.com
-      linkedin: dolendra-vikas-175451190
-    subteam: Communications
-
   - name: Varun Kumar
     avatar: varun.png
     social:
@@ -35,9 +28,3 @@ members:
       linkedin: velidi-pradeep-b009b3191
     subteam: Control Systems
 
-  - name: Ashwathy Manoj Kumar
-    avatar: ashwathy.png
-    social:
-      email: esd19i011@iiitdm.ac.in
-      linkedin: aswathy-manoj-kumar
-    subteam: Communications
