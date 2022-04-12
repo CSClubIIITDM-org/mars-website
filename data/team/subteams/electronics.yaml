@@ -1,4 +1,11 @@
 members:
+
+  - name: SUCHARITA
+    avatar: Sucharita.png
+    social:
+      email: vemurusathyasucharitha@gmail.com
+    subteam: Control Systems
+
   - name: Valluru Bhavana
     avatar: Bhavana.png
     social:
@@ -13,9 +20,4 @@ members:
       linkedin: devivaraprasad-rathikindi-b35b6a20b
     subteam: Control Systems
 
-  - name: SUCHARITA
-    avatar: Sucharita.png
-    social:
-      email: vemurusathyasucharitha@gmail.com
-    subteam: Control Systems
 
