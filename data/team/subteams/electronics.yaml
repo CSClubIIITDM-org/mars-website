@@ -1,7 +1,6 @@
 members:
   - name: Valluru Bhavana
     avatar: Bhavana.png
-    leader: true
     social:
       email: bhavanavalluru2003@gmail.com
       linkedin: bhavana-valluru-b36370209
@@ -9,7 +8,6 @@ members:
 
   - name: Devivaraprasad
     avatar: Devi.png
-    leader: true
     social:
       email: rathikindidevivaraprasad@gmail.com
       linkedin: devivaraprasad-rathikindi-b35b6a20b
