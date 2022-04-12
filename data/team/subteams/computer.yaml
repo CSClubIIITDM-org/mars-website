@@ -14,6 +14,50 @@ members:
       linkedin: yash-kumar-sahu-74a03a1b1
     subteam: ROS Developers
     
+  - name: Radhika Mittal
+    avatar: radhika.png
+    social:
+      email: radhikamittal2000@gmail.com
+      linkedin: radhika-mittal-6528901a0
+    subteam: ROS Developers
+    
+    
+  - name: Vishnu Kumar
+    avatar: Vishnu.png
+    social:
+      email: vishnu.kumardgp2002@gmail.com
+      linkedin: vishnu-kumar-227a03220
+    subteam: ROS Developers
+    
+  - name: Jagadeeshan S
+    avatar: Jagadeeshan.png
+    social:
+      email: jagdeeshan@gmail.com
+      linkedin: jagdeeshan
+    subteam: ROS Developers
+    
+    
+  - name: Pranav 
+    avatar: Pranav.png
+    social:
+      email: pranavpy0@gmail.com
+    subteam: ROS Developers
+    
+  - name: Chandan Kumar
+    avatar: Chandan.png
+    social:
+      email: chandanyadav0211@gmail.com
+      linkedin: chandan-kumar-4b6605195
+    subteam: ROS Developers
+    
+    
+  - name: Atharva Baste
+    avatar: Atharva.png
+    social:
+      email: atharva.mail.is.not@gmail.com
+    subteam: ROS Developers    
+
+    
   - name: Vishal Kumar
     avatar: vishal.png
     social:
