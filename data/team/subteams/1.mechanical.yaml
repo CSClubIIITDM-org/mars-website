@@ -1,0 +1,65 @@
+members:
+
+
+  - name: Pullipudi Sri Sahil
+    avatar: Sahil.jpeg
+    leader: true
+    
+    social:
+      email: srisahilp@gmail.com
+      linkedin: srisahilp
+    subteam: Mechanical
+
+  - name: Videsh.V.K
+    avatar: videsh.jpg
+    social:
+      email: me21b1026@iiitdm.ac.in
+      linkedin:  videsh-v-k-83354a186
+    subteam: Mechanical
+
+  - name: Adarsh Hariharan
+    avatar: adarsh.jpeg
+    social:
+      email: me20b1034@iiitdm.ac.in
+      linkedin: 
+    subteam: Mechanical
+
+  - name: Sonam Prajapati
+    avatar: sonam.jpg
+    social:
+      email: me21b1016@iiitdm.ac.in
+      linkedin: 
+    subteam: Mechanical
+
+  - name: Pravin P A
+    avatar: pravin.jpg
+    social:
+      email: me21b1045@iiitdm.ac.in
+      linkedin: pravin-p-a-829781236
+    subteam: Mechanical
+
+  - name: Siddharth Devarajan
+    avatar: \siddharth.jpg
+    social:
+      email: me21b1025@iiitdm.ac.in
+      linkedin:  
+    subteam: Mechanical
+
+  - name: Saikat Paul
+    avatar: saikat.jpeg
+    social:
+      email: me21b1008@iiitdm.ac.in
+      linkedin: 
+    subteam: Mechanical
+
+  - name: Pranav P R
+    avatar: pranavpr.jpg
+    social:
+      email: me21b1064@iiitdm.ac.in
+      linkedin: 
+    subteam: Mechanical
+
+
+
+
+

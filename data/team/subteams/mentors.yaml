@@ -1,0 +1,35 @@
+members:
+  - name: Vishal Kumar
+    avatar: vishal.png
+    social:
+      email: mpd18i027@iiitdm.ac.in
+      linkedin: vi-ku
+    subteam: ROS Developers
+
+  - name: Dumpala Rajesh
+    avatar: rajesh.png
+    social:
+      email: mpd18i007@iiitdm.ac.in
+      linkedin: rajeshd001
+    subteam: Mechanical
+
+  - name: Deep Patel
+    avatar: deep.jpg
+    social:
+      email: 
+      linkedin: deepresearch
+    subteam: ROS Developers  
+  
+  - name: Ram Guguloth
+    avatar: ram.png
+    social:
+      email: 
+      linkedin: 
+    subteam: Mechanical 
+  
+  - name: Rohith Katari
+    avatar: rohith.png
+    social:
+      email: 
+      linkedin: 
+    subteam: Mechanical 

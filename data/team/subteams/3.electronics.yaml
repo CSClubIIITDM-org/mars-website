@@ -1,0 +1,25 @@
+members:
+  - name: Samrat Chhabra 
+    avatar: samrat.jpeg
+    social:
+      email: ec21b1021@iiidm.ac.in
+    subteam: Electronics
+
+  - name: Aravind Ananthakrishnan 
+    avatar: \Aravind.jpg
+    social:
+      email: ec21b1112@iiidm.ac.in
+    subteam: Electronics 
+
+  - name: Thribhuvan Sunkavalli
+    avatar: thribhuvan.png
+    social:
+      email: ec21b1093@iiidm.ac.in
+    subteam: Electronics
+
+  - name: Vashist Managari
+    avatar: vashist.png
+    social:
+      email: ec21b1038@iiitdm.ac.in
+    subteam: Electronics
+

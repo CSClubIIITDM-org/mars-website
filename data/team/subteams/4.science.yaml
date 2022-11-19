@@ -6,7 +6,7 @@ members:
     subteam: Science Cache
 
   - name: Suzanna Skaria Mathai
-    avatar: Suzanna.png
+    avatar: suzanna.jpeg
     leader: true
     social:
       email: suzannajss@gmail.com
@@ -22,4 +22,10 @@ members:
     avatar: Prashanth.png
     social:
       email: rishiplk02@gmail.com
+    subteam: Science Cache
+  
+  - name: Subarna
+    avatar: subarna.jpeg
+    social:
+      email: 
     subteam: Science Cache

@@ -23,7 +23,7 @@ menus:
 params:
   heroHeader:
     subheader: Welcome to
-    title: Mars Rover Society
+    title: Mars Research Station
     motto: To create an eco-system in the midst of a pandemic where people support each other to grow and build technologies that would develop their lives for the better.
 
   logo: logo.png
