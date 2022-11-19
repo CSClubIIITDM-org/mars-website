@@ -28,7 +28,7 @@ members:
     avatar: sonam.jpg
     social:
       email: me21b1016@iiitdm.ac.in
-      linkedin: 
+      linkedin: sonam-prajapati-0018b724b
     subteam: Mechanical
 
   - name: Pravin P A
@@ -50,6 +50,13 @@ members:
     social:
       email: me21b1008@iiitdm.ac.in
       linkedin: 
+    subteam: Mechanical
+
+  - name: KSL Sanjana
+    avatar: sanjana.jpg
+    social:
+      email: sanjxksl@gmail.com
+      linkedin: sanjana-ksl-a525b8221
     subteam: Mechanical
 
   - name: Pranav P R
