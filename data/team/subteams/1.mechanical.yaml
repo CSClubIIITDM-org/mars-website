@@ -3,7 +3,7 @@ members:
 
   - name: Pullipudi Sri Sahil
     avatar: Sahil.jpeg
-    leader: true
+    
     
     social:
       email: srisahilp@gmail.com
@@ -47,6 +47,7 @@ members:
 
   - name: Saikat Paul
     avatar: saikat.jpeg
+    leader: true
     social:
       email: me21b1008@iiitdm.ac.in
       linkedin: 

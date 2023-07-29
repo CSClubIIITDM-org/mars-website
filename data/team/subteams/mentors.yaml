@@ -20,16 +20,16 @@ members:
       linkedin: deepresearch
     subteam: ROS Developers  
   
-  - name: Ram Guguloth
-    avatar: ram.png
-    social:
-      email: 
-      linkedin: 
-    subteam: Mechanical 
+  # - name: Ram Guguloth
+  #   avatar: ram.png
+  #   social:
+  #     email: 
+  #     linkedin: 
+  #   subteam: Mechanical 
   
-  - name: Rohith Katari
-    avatar: rohith.png
-    social:
-      email: 
-      linkedin: 
-    subteam: Mechanical 
+  # - name: Rohith Katari
+  #   avatar: rohith.png
+  #   social:
+  #     email: 
+  #     linkedin: 
+  #   subteam: Mechanical 
